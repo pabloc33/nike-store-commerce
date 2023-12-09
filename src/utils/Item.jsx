@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import { StarIcon, ShoppingBagIcon } from "@heroicons/react/24/solid";
-import { setAddItemToCar } from "../app/cartSlice";
+import { setAddItemToCar, setOpenCart } from "../app/cartSlice";
 
 const Item = ({
   ifExists,
