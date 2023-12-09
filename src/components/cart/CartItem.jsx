@@ -4,7 +4,7 @@ import {
   setDecreaseItemQTY,
   setIncreaseItemQTY,
   setRemoveItemFromCart,
-} from "../../app/CartSlice";
+} from "../../app/cartSlice";
 //import { getSrcString } from "../../helpers/srcString";
 
 const CartItem = ({
